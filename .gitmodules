@@ -1,3 +1,6 @@
 [submodule "submodule_exp10"]
 	path = submodule_exp10
 	url = https://github.com/arumpugazl-12/submodule_exp10.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
